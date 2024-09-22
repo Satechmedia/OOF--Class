@@ -1,0 +1,20 @@
+.container {
+    border:1px solid black;
+    height: 500px;
+}
+
+.sticky {
+    display: flex;
+    flex-direction: column;
+    position: sticky;
+    top:20px;
+    background-color:navy;
+    color: white;
+}
+
+.faint {
+    opacity:0.5;
+
+}
+   
+   
